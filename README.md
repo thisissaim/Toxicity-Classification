@@ -1,7 +1,7 @@
 # Toxicity Classification Interface
 This repository contains code for a toxicity scoring interface that utilizes a pre-trained model to predict the toxicity of text comments. The interface allows users to input a comment and receive a toxicity score for various categories.
 
-## Note: Interface is currently available for `toxicity-classification.ipynb` only
+### Note: Interface is currently available for `toxicity-classification.ipynb` only
 
 # Prerequisites
 Make sure you have the following dependencies installed:
